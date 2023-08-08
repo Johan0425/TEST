@@ -1,1 +1,4 @@
-clase de diseño de base de datos
+clase de diseño de base de datos.
+
+buenos dias
+
